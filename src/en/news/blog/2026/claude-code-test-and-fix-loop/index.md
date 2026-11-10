@@ -1,6 +1,6 @@
 ---
 title: "Breaking Ceph on purpose: letting Claude Code run my test-and-fix loop"
-date: "2026-10-22"
+date: "2026-11-10"
 author: "Alex Ainscow"
 categories: "community"
 tags:
